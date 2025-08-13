@@ -71,6 +71,22 @@ README.md
 
 ---
 
+## 🐳 Development Environment
+
+This repository includes a **VS Code Dev Container** for docs, scripting, tooling (FFmpeg, Node, Python), linting/formatting, and Git operations. Unity/Android builds run natively on your host.
+
+**To use the Dev Container:**
+1. Open this repository in VS Code
+2. When prompted, click **"Reopen in Container"** (or use Command Palette → "Dev Containers: Reopen in Container")
+3. VS Code will build the container and install recommended extensions automatically
+
+**Environment setup:**
+- Copy `.env.example` to `.env` and configure your local settings
+- The Dev Container includes Python, Node.js, and development tools
+- Unity Editor should be installed and run on your host system
+
+---
+
 ## 🚀 Deployment
 
 1. Put the smartphone into **developer mode** & enable USB debugging  
