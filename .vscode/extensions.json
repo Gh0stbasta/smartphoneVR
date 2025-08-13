@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "PKief.material-icon-theme",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "ms-python.python",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
