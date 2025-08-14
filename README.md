@@ -36,24 +36,6 @@ This project will cover the following elements:
 
 ---
 
-## 📂 Repository Structure
-
-```
-/Assets            # Unity assets (scenes, scripts, prefabs, shaders)
-/Docs              # Notes, guides, technical explanations
-/Prototypes
-   /XR-Basics
-   /Video-Texture
-   /Chroma-Key
-   /Camera-Passthrough
-   /Streaming
-   /VR-UI
-/StreamingTests    # FFmpeg commands, test videos
-README.md
-```
-
----
-
 ## 🛠 Minimum Required Setup
 
 **Hardware**
