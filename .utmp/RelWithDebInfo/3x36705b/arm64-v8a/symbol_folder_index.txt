@@ -1,0 +1,1 @@
+/Users/sschmidpeter/Documents/SmartphoneVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x36705b/obj/arm64-v8a
